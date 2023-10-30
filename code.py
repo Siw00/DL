@@ -257,6 +257,34 @@ test_loss, test_acc = model.evaluate(x_test, y_test)
 print(f"Test accuracy: {test_acc}")
 
 
+'''
+Experiment 8: Working Data Collection and Evaluation
+Aim:
+To gain hands-on experience in collecting and evaluating data for machine learning 
+experiments.
+Steps:
+- Define the problem or task for which data needs to be collected.
+- Identify suitable data sources, which can include publicly available datasets, web scraping, 
+or data generation.
+- Gather the data and preprocess it as necessary (e.g., cleaning, formatting, and feature 
+engineering).
+- Split the data into training, validation, and test sets.
+- Conduct exploratory data analysis (EDA) to understand data distribution and relationships.
+- Evaluate the quality of the collected data and address any issues.
+Source Code:
+N/A
+Output/Observation:
+Data collection methods and sources are explored.
+Data preprocessing steps are performed.
+EDA techniques reveal insights into the data.
+Data quality is assessed and improved if necessary.
+Result:
+The quality and readiness of the collected data for machine learning experiments are 
+determined.
+'''
+
+
+
 
 
 #exp 9 to conduct experiment on obj detection using CNN
@@ -300,4 +328,30 @@ test_loss, test_acc = model.evaluate(x_test, y_test)
 print(f"Test accuracy: {test_acc}")
 
 
+'''
+Experiment 11: Working on Deep Learning Structures
+Aim:
+To gain practical experience in designing and working with deep learning architectures.
+Steps:
+Choose a deep learning task or problem to work on (e.g., image classification, natural 
+language processing).
+Select a suitable deep learning architecture, such as convolutional neural networks (CNNs), 
+recurrent neural networks (RNNs), or transformer-based models.
+Design the architecture, including specifying the number of layers, activation functions, and 
+other hyperparameters.
+Implement the deep learning model using a framework like TensorFlow or PyTorch.
+Train the model on a relevant dataset.
+Fine-tune the model and experiment with different architectures to improve performance.
+Evaluate and compare the performance of different deep learning structures.
+Source Code:
+N/A
+Output/Observation:
+Deep learning architecture design is explored.
+The chosen deep learning model is implemented.
+Training and fine-tuning experiments are conducted.
+Model performance is analyzed and compared for different architectures.
+Result:
+Practical experience is gained in working with deep learning structures, and insights into 
+architecture selection and optimization are obtained.
+'''
 
